@@ -2,3 +2,6 @@
 
 LAB 3 - Symfony
 https://rise.articulate.com/share/BDdhyl_xdXmtU7aitX3nE3uCsiGmVQK4#/
+
+https://www.youtube.com/watch?v=UBdh4QWtvuo - Creating Symfony Project
+
