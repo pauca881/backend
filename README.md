@@ -7,4 +7,5 @@ Here you will find code examples, projects, and solutions to the exercises from 
 **Lab 1**: Objected Oriented Programming.
 still adding...
 
-**Lab 2**: 
+**Lab 2**: Databases and PHP services.
+TODO: End solution video ( 3:02 min )
