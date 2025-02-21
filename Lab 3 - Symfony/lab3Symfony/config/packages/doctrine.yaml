@@ -43,3 +43,6 @@ when@prod:
                     adapter: cache.app
                 doctrine.system_cache_pool:
                     adapter: cache.system
+            metadata:
+            drivers:
+                App\Entity: Doctrine\ORM\Mapping\Driver\AnnotationDriver

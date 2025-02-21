@@ -1,0 +1,14 @@
+ {% extends 'base.html.twig' %}
+
+ {% block title %} Listado de libros {% endblock %}
+{ % block content %}
+<h1>Listado de libros</h1>
+<ul>
+    {% for libro in libros %}
+    <li>
+    <strong> {{ libro.nombre }} </strong>
+    <span> Editorial: {{ libro.editorial }} </span>
+    </li
+    { %endfor %}
+</ul>
+{% endblock %}

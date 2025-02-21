@@ -2,7 +2,9 @@
 
 //Symfony tiene Doctrine ORM
 
-
+/**
+ * @ORM\Entity(repositoryClass="LibroRepository::class")
+ */
 class Libro{
 
     /**
