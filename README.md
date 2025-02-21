@@ -9,3 +9,6 @@ still adding...
 
 **Lab 2**: Databases and PHP services.
 TODO: End solution video ( 3:02 min )
+
+**Lab 3**: Symfony Framework.
+We used Laragon, but it will need PHP and composer in normal installations.
