@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Detalle evento -  {{ evento.nombre }}{% endblock %}
+
+{% block content %}
+<h1>Detalle evento - {{evento.nombre}}</h1>
+
+<h2>Información del evento</h2>
+<ul>
+    <li>Nombre: {{evento.nombre}}</li>
+    <li>Fecha: {{evento.fecha|date('d/m/Y')}}</li>
+    <li>Ubicación: {{evento.ubicacion}}</li>
+    <li>Descripción: {{evento.descripcion}}</li>
+</ul>
+
+<a href="{{ path('eventos_lista)}}"> Volver a la lista de eventos</a>
+{% endblock %}
