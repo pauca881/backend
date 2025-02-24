@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Lista de eventos{% endblock %}
+
+{% block content %}
+<h1>Lista de eventos</h1>
+
+{% for evento in eventos%}
+<li>
+<strong>{{ evento.nombre}}</strong>
+Fecha: {{ evento.fecha|date('d/m/Y') }}
+Ubicación: {{ evento.ubicacion}}
+<a href="{{ path('eventos_detalle', {'id': evento.id}) }}">Ver detalle</a>
+</li>
+{% endfor %}
+</ul>
+
+<a href="{´{path('eventos_agregar')}}">Agregar evento</a>
+{% endblock %}

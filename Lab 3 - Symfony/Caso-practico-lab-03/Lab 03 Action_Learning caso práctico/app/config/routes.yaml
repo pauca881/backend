@@ -14,3 +14,14 @@ blog_show:
     path: /publicacion/{id}
     controller: App\Controller\BlogController::show
 
+listaEventos:
+   path: /listaEventos
+   controller: App\Controller\EventoController::lista
+
+eventosAgregar:
+    path: /eventos/agregar
+    controller: App\Controller\EventoController::agregarEvento
+
+eventosDetalle:
+    path: /eventos/{id}
+    controller: App\Controller\EventoController::agregarEvento
