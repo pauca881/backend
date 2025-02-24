@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Agregar evento{% endblock %}
+
+{% block content %}
+<h1>Agregar evento</h1>
+
+<form method="post">
+{{ form_start(form) }}
+{{ form_row(form.nombre) }}
+{{ form_row(form.fecha) }}
+{{ form_row(form.ubicacion) }}
+{{ form_row(form.descripcion) }}
+<button type="submit">Agregar Evento</button>
+{{ form_end(form) }}
+{% endblock %}
+</form>
+
+<a href="{{ path('eventos_lista') }}">Volver a la lista de eventos</a>
+{% endblock %}

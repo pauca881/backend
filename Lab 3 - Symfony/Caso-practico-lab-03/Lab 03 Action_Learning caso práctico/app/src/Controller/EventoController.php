@@ -31,7 +31,7 @@ class EventoController extends AbstractController{
         ]);
     }
 
-    public function agregarEvento(Request $request, FormFactoryInterface $formFactory): Response{
+    public function detalle(Request $request, FormFactoryInterface $formFactory): Response{
 
         $evento = $this->entityManager->getRepository(Evento::class)->find($id);
 
@@ -40,6 +40,30 @@ class EventoController extends AbstractController{
         }
 
         return $this->render('evento/detalle.html.twig', [
+            'form' => $form->createView(),
+        ]);
+
+    }
+
+    public function agregarEvento(Request $request): Reponse{
+
+        $evento = new Evento();
+        $form = $this->formFactory->create(EventoType::class, $evento;)
+
+        $form->handleRequest($request);
+
+        if($form->isSubmitted() && $form->isValid()){
+
+            $entityManager = $this->getDoctrine()->getManager();
+            $entityManager->persist($evento);
+            $entityManager->flush();
+
+            $this->addFlash('success', 'El evento se ha creado correctamente.');
+
+            return $this->redirectToRoute('eventos_lista');
+        }
+
+        return $this->render('evento/agregar.html.twig', [
             'form' => $form->createView(),
         ]);
 
