@@ -1,0 +1,16 @@
+index:
+   path: /
+   controller: App\Controller\BlogController::index
+
+blog_index:
+    path: /publicaciones
+    controller: App\Controller\BlogController::index
+
+blog_create:
+    path: /publicacion/crear
+    controller: App\Controller\BlogController::create
+
+blog_show:
+    path: /publicacion/{id}
+    controller: App\Controller\BlogController::show
+

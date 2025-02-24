@@ -6,3 +6,4 @@ https://rise.articulate.com/share/BDdhyl_xdXmtU7aitX3nE3uCsiGmVQK4#/
 https://www.youtube.com/watch?v=UBdh4QWtvuo - Creating Symfony Project
 https://www.youtube.com/watch?v=aj8BjoHPlmQ - Symfony interacts with a database
 https://www.youtube.com/watch?v=5plGQ9CdfFI - Symfony Forms and Templates
+https://www.youtube.com/watch?v=Vro0HFi-K4E - Symfony - Making a blog

@@ -1,0 +1,19 @@
+{# templates/blog/create.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block title %}Crear Publicación{% endblock %}
+
+{% block content %}
+<div>
+    <h1>Crear Publicación</h1>
+    {{ form_start(form) }}
+    {{ form_row(form.title) }}
+    {{ form_row(form.content) }}
+    {# {{ form_row(form.author) }} #}
+    {# Agrega más campos aquí si es necesario #}
+    <button type="submit" class="btn btn-primary">Crear Publicación</button>
+    {{ form_end(form) }}
+    <a href="{{ path('blog_index') }}">Volver a la lista de publicaciones</a>
+</div>
+{% endblock %}

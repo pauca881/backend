@@ -1,0 +1,18 @@
+{# templates/blog/index.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block title %}Blog{% endblock %}
+
+{% block content %}
+    <h1>Blog</h1>
+    <ul>
+        {% for post in posts %}
+            <li>
+                <h2><a href="{{ path('blog_show', {'id': post.id}) }}">{{ post.title }}</a></h2>
+                <p>{{ post.content }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ path('blog_create') }}" class="btn btn-primary">Añadir Publicación</a>
+{% endblock %}

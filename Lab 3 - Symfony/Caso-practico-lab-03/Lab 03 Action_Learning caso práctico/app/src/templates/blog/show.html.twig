@@ -1,0 +1,13 @@
+{# templates/blog/show.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ post.title }}{% endblock %}
+
+{% block content %}
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.content }}</p>
+
+    <a href="{{ path('blog_index') }}">Volver a la lista de publicaciones</a>
+</div>
+{% endblock %}
