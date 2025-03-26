@@ -1,4 +1,10 @@
+LAB 1 - POO
+https://rise.articulate.com/share/WXpjgoXd8JVS98R1bkrAtoetBE7G7M6V
 
+https://www.youtube.com/watch?v=XEqzJa61FQs - Classes, Constructors, and Instance Implementationç
+https://www.youtube.com/watch?v=ej77IKdA7R4 - Abstraction and inheritance
+https://www.youtube.com/watch?v=kAtmno84O_M - Interfaces
+https://www.youtube.com/watch?v=uy14gYpIXO0 - POO
 
 LAB 3 - Symfony
 https://rise.articulate.com/share/BDdhyl_xdXmtU7aitX3nE3uCsiGmVQK4#/
