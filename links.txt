@@ -5,6 +5,15 @@ https://www.youtube.com/watch?v=XEqzJa61FQs - Classes, Constructors, and Instanc
 https://www.youtube.com/watch?v=ej77IKdA7R4 - Abstraction and inheritance
 https://www.youtube.com/watch?v=kAtmno84O_M - Interfaces
 https://www.youtube.com/watch?v=uy14gYpIXO0 - POO
+https://www.youtube.com/watch?v=jXkJt_Ofkxs - Solution
+
+LAB 2 - 
+https://rise.articulate.com/share/uzR_dDkfrqCXvY5LyaTvRae9GW_hdWt4
+
+https://www.youtube.com/watch?v=rGRqx2x5T-Q - SQL Query
+https://www.youtube.com/watch?v=OuohFVa2lQ4 -Conexion with DB
+https://www.youtube.com/watch?v=zI8mI0bpVRA - Add a User
+https://www.youtube.com/watch?v=XpX-DioZL6g - Solution
 
 LAB 3 - Symfony
 https://rise.articulate.com/share/BDdhyl_xdXmtU7aitX3nE3uCsiGmVQK4#/
