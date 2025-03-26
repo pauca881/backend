@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=aj8BjoHPlmQ - Symfony interacts with a database
 https://www.youtube.com/watch?v=5plGQ9CdfFI - Symfony Forms and Templates
 https://www.youtube.com/watch?v=Vro0HFi-K4E - Symfony - Making a blog
 https://www.youtube.com/watch?v=dHxnvBHyhxU - Symfony Solution - Event Manager App
+
+Lab 4 - Laravel
+https://rise.articulate.com/share/QinVnJK7pn9Zq1WWgtzEqifv2Ji5qiaY#/lessons/d9IdDIHCVbmjL115p7_QolUda-cN9pF0
+
