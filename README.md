@@ -13,5 +13,5 @@ TODO: End solution video ( 3:02 min )
 **Lab 3**: Symfony Framework.
 We used Laragon, but it will need PHP and composer in normal installations.
 
-**Lab 3**: Laravel Framework.
+**Lab 4**: Laravel Framework.
 We used Laragon, but it will need PHP and composer in normal installations.
