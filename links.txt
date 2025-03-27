@@ -1,3 +1,4 @@
+
 LAB 1 - POO
 https://rise.articulate.com/share/WXpjgoXd8JVS98R1bkrAtoetBE7G7M6V
 
@@ -26,4 +27,5 @@ https://www.youtube.com/watch?v=dHxnvBHyhxU - Symfony Solution - Event Manager A
 
 Lab 4 - Laravel
 https://rise.articulate.com/share/QinVnJK7pn9Zq1WWgtzEqifv2Ji5qiaY#/lessons/d9IdDIHCVbmjL115p7_QolUda-cN9pF0
+IGNORE THIS LINK TEAM!!
 
