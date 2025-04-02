@@ -30,7 +30,7 @@ https://rise.articulate.com/share/QinVnJK7pn9Zq1WWgtzEqifv2Ji5qiaY#/lessons/d9Id
 https://www.youtube.com/watch?v=zf2DJwR1qvI - Creation Laravel Project
 https://www.youtube.com/watch?v=BPWSgCitCjU - Controlators, models and migrations
 https://www.youtube.com/watch?v=f3IVZ0qYV10 - New routes and views
-
+https://www.youtube.com/watch?v=2FKUJvfTS0A - Developing a functional app
 
 IGNORE THIS LINK TEAM!!
 
