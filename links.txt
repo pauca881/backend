@@ -29,6 +29,8 @@ Lab 4 - Laravel
 https://rise.articulate.com/share/QinVnJK7pn9Zq1WWgtzEqifv2Ji5qiaY#/lessons/d9IdDIHCVbmjL115p7_QolUda-cN9pF0
 https://www.youtube.com/watch?v=zf2DJwR1qvI - Creation Laravel Project
 https://www.youtube.com/watch?v=BPWSgCitCjU - Controlators, models and migrations
+https://www.youtube.com/watch?v=f3IVZ0qYV10 - New routes and views
+
 
 IGNORE THIS LINK TEAM!!
 
